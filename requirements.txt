@@ -1,0 +1,5 @@
+docplex
+numpy
+matplotlib
+pandas
+PySide6
