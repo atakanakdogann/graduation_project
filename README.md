@@ -32,6 +32,15 @@ We developed and compared three distinct models to evaluate different planning s
 
 3.  **Integrated Model (IM):** A full, monolithic MILP that formulates the entire WBARP as a single problem. While theoretically optimal, it is only computationally tractable for very small instances and serves as a benchmark for evaluating the quality of the matheuristic solutions.
 
+
+## Dataset
+
+We used the real-world data shared by Kadikoy Belediyesi, from Istanbul. The datas we used can be found in following links:
+
+https://www.google.com/maps/d/u/0/viewer?mid=181mmqgMadJTtgb4SsRSz07tUHTXU-Agy&ll=40.98232538542135%2C29.057219295162938&z=14
+
+https://acikveri.kadikoy.bel.tr/dataset/kadikoy-belediyesi-ambalaj-atik-toplama-konteynerleri
+
 ## File Structure
 
 ```
