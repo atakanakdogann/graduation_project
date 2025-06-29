@@ -4,6 +4,7 @@
 **Supervisor:** Prof. Dr. Didem Gözüpek  
 **Institution:** Gebze Technical University, Department of Computer Engineering
 
+[![DOI](https://zenodo.org/badge/1006521127.svg)](https://doi.org/10.5281/zenodo.15768836)
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
